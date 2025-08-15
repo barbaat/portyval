@@ -39,7 +39,10 @@ const Services = () => {
                                         Realizamos revisiones periódicas, reparaciones y mantenimiento de instalaciones eléctricas para garantizar su correcto funcionamiento y seguridad.
                                     </p>
                                     <p className="text-lg font-medium">
-                                        Telecomunicaciones (utp, TV, telefonía, antenas, etc.). Aspiración centralizada.
+                                        - Telecomunicaciones (utp, TV, telefonía, antenas, etc.).
+                                    </p>
+                                    <p className="text-lg font-medium">
+                                        - Aspiración centralizada.
                                     </p>
                                 </div>
                             </div>
@@ -50,9 +53,6 @@ const Services = () => {
                                     <h2 className="font-semibold my-4 text-2xl text-center ">Instalación de paneles solares para autoconsumo</h2>
                                     <p className="text-lg font-medium">
                                         Instalamos sistemas de paneles solares para autoconsumo, ayudando a nuestros clientes a reducir su dependencia de la red eléctrica y ahorrar en sus facturas de energía.
-                                    </p>
-                                    <p className="text-lg font-medium">
-                                        Alta en industria y empresa inscrita en el INEGA. 
                                     </p>
                                 </div>
                             </div>

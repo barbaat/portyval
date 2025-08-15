@@ -21,6 +21,9 @@ const Intro = () => {
                             <div>
                                 <p className='my-3 text-xl text-gray-600 font-semibold'>Contamos con un equipo técnico altamente cualificado y en constante formación, que nos permite afrontar todo tipo de proyectos, desde instalaciones domésticas hasta soluciones a medida para empresas e industrias.</p>
                             </div>
+                            <div>
+                                <p className='my-3 text-xl text-gray-600 font-semibold'>Alta en industria y empresa inscrita en el INEGA.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
